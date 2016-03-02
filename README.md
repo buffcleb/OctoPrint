@@ -1,6 +1,6 @@
 # OctoPrint
 example of adding buttons and sliders to OctoPrint 1.2.9
-
+[[https://github.com/buffcleb/OctoPrint/master/Screen.Shot.2016-03-02.at.6.47.52.PM.png]]
 appearance: {}
 controls:
 - children:
