@@ -1,7 +1,7 @@
 # OctoPrint
 example of adding buttons and sliders to OctoPrint 1.2.9
 
-https://github.com/buffcleb/OctoPrint/raw/master/Screen.Shot.2016-03-02.at.6.47.52.PM.png
+![OctoPrint](https://github.com/buffcleb/OctoPrint/raw/master/Screen.Shot.2016-03-02.at.6.47.52.PM.png)
 
 This snippet is located below "key:" in the config.yaml and adds support for the BLTouch and a fan control
 
