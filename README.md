@@ -5,6 +5,9 @@ https://github.com/buffcleb/OctoPrint/raw/master/Screen.Shot.2016-03-02.at.6.47.
 
 This snippet is located below "key:" in the config.yaml and adds support for the BLTouch and a fan control
 
+View it in raw to get the formatting correct (spacing seems to be important)
+back up yout config.yaml before editing it
+
 pi@octopi ~ $ pwd
 /home/pi
 pi@octopi ~ $ vi .octoprint/config.yaml
